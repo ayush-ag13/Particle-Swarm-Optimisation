@@ -1,6 +1,8 @@
 # Particle Swarm Optimization (PSO) Visualization
 
 This repository contains a Python implementation of Particle Swarm Optimization (PSO) with visualization capabilities. The project demonstrates PSO on the Rastrigin function, a common benchmark problem in optimization.
+![PSO Convergence](sample-output/pso_triple_animation.gif)
+
 
 ## What is Particle Swarm Optimization?
 
@@ -53,16 +55,15 @@ particle-swarm-optimization/
 │
 ├── main.py
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/particle-swarm-optimization.git
-   cd particle-swarm-optimization
+   git clone https://github.com/ayush-ag13/Particle-Swarm-Optimisation.git
+   cd Particle-Swarm-Optimization
    ```
 
 2. Create a virtual environment (optional but recommended):
