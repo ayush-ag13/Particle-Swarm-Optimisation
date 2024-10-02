@@ -1,5 +1,6 @@
 from tqdm import tqdm
 from .particle import Particle
+import random
 
 class PSO:
     def __init__(self, num_particles, num_variables, bounds, max_iterations, objective_function):
